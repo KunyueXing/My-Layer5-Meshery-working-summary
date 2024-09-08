@@ -22,5 +22,8 @@
 
 2. [UI] [Bug] Add a link in the sidebar outline to one of the tutorials and make the sequence of tutorial topics consistent [#11930](https://github.com/meshery/meshery/issues/11930)
 
+3. [UI] [Bug] Add links in the side navigation bar to the tutorial pages, make the title and sequence of the topics consistent [#11933](https://github.com/meshery/meshery/issues/11933)
+   
+
 ## Issues involved in discussion and maintainment.
 1. [mesheryctl] system check command mandates the requirement of an adapter to perform the check. [#10382](https://github.com/meshery/meshery/issues/10382)
