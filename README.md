@@ -23,6 +23,8 @@
 2. [UI] [Bug] Add a link in the sidebar outline to one of the tutorials and make the sequence of tutorial topics consistent [#11930](https://github.com/meshery/meshery/issues/11930)
 
 3. [UI] [Bug] Add links in the side navigation bar to the tutorial pages, make the title and sequence of the topics consistent [#11933](https://github.com/meshery/meshery/issues/11933)
+
+4. [UI] [Bug] Remove duplicate error code table of meshery-server in Error Code Reference [#11942](https://github.com/meshery/meshery/issues/11942)
    
 
 ## Issues involved in discussion and maintainment.
