@@ -1,6 +1,6 @@
 # My-Layer5-Meshery-working-summary
 
-## Issues worked on
+## Issues fixed
 
 1. [Sistent] Missing instructions related to the NPM packages and their use [#5486](https://github.com/layer5io/layer5/issues/5486) -- PR [#5549](https://github.com/layer5io/layer5/pull/5549) 
    
@@ -13,12 +13,11 @@
    Fixed the incorrect port number of meshery-nighthawk adapter in Kubernetes helm charts doc 
 4. [mesheryctl] Confirm that helm charts, not k8s manifests are used for Meshery install [#10926](https://github.com/meshery/meshery/issues/10926)
 
-   ongoing...
+   In progress...
 
 
-## Issues filed
+## Issues reported
 1. [Docs] Incorrect port number of meshery-nighthawk adapter in README.md [#11823](https://github.com/meshery/meshery/issues/11823) -- PR [#11824](https://github.com/meshery/meshery/pull/11824) 
-
 
 2. [UI] [Bug] Add a link in the sidebar outline to one of the tutorials and make the sequence of tutorial topics consistent [#11930](https://github.com/meshery/meshery/issues/11930)
 
@@ -29,5 +28,5 @@
 5. [UI] [Bug] Make the links in the sidebar highlighted and show the selection when clicked, and correct some of their path according to the logical order in the sidebar [#11944](https://github.com/meshery/meshery/issues/11944)
    
 
-## Issues involved in discussion and maintainment.
+## Issue hygiene maintenance
 1. [mesheryctl] system check command mandates the requirement of an adapter to perform the check. [#10382](https://github.com/meshery/meshery/issues/10382)
